@@ -21,13 +21,20 @@ The application takes a sentence as input and analyzes it to detect emotions suc
 
 ## Project Structure
 emotion-detector
+
 │
-├── EmotionDetection
+
+├──EmotionDetection
+
 │ ├── init.py
+
 │ └── emotion_detection.py
 
+
 ├── server.py
+
 ├── test_emotion_detection.py
+
 └── README.md
 
 ## How to Run the Project
@@ -51,3 +58,4 @@ Rishikant Verma
 Student at Trident Academy of Technology
 
 GitHub: https://github.com/rishivr21
+
